@@ -11,9 +11,7 @@ The GALAH project used the HERMES spectrograph with 400 fibres, R=28k, 4 bands 1
 
 With Veloce we are able to reach lower wavelengths down to 390nm. This is important because a lot of heavy neutron capture elements show spectral activity in the blue end of the spectrum < 480nm. 
 
-![Overview of wavelength coverage for nucleosynthesis](/GALAH 2/img/Wavelength_coverage.png "Overview of wavelength coverage for nucleosynthesis")
-
-
+![Overview of wavelength coverage for nucleosynthesis](/GALAH%202/img/Wavlength_coverage.png "Overview of wavelength coverage for nucleosynthesis")
 
 <!-- The GALAH 2 project hopes to combine high resolution spectra from Veloce (396 nm to 940 nm, R~80,000) a high resolution survey using the Veloce spectrograph at the Anglo-Australian Telescope combined with HERMES at the lower resolution (See GALAH DR4 [Buder *et al.* (2024)](https://arxiv.org/abs/2409.19858v1)). -->
 
