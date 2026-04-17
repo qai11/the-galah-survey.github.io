@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Table Schema
-subtitle: Fourth Data Release
+title: project bio
+subtitle: Galah2
 ---
 
 {: .main_blockquote}

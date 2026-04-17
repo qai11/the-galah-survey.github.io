@@ -41,19 +41,27 @@ With Veloce we are able to reach lower wavelengths down to 390nm. This is import
 
 
 
-#### Data provided in GALAH 2
 
-#### Sky Coverage
+## Korg examples
 
-### The GALAH DR4 Data Products
+## Project member Biography
 
-#### GALAH DR4 Catalogues
+### PI's
 
-#### GALAH DR4 Spectra
+#### Melissa Ness
 
-### Changes from the Third Data Release of GALAH
+#### Sven Buder
 
-#### Data Reduction
+### Students
+
+#### Quin Aicken Davies
+
+I am a PhD student at the Australian National University specialising in analysis of high resolution stellar spectroscopy and using standard and machine learning techniques to reconstruct how the Milky Way formed and where the chemical elements originate.
+
+
+
+
+
 
 ---
 
